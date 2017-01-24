@@ -1749,6 +1749,7 @@ transform: translateY(-.2rem);
 
 .flexblock.blink li {
   padding: 0;
+  width: calc(100% / 3);
 }
 
 
