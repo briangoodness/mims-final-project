@@ -423,6 +423,9 @@ img.aligncenter {
 @media (min-width: 1024px) {
 
   /*=== div.size-60, img.size-50, h1.size-40, p.size-30... === */
+  .size-90 {
+    width: 90%;
+  }
   .size-80 {
     width: 80%;
   }
@@ -2110,7 +2113,7 @@ margin-top: .8rem;
 
 @media (min-width:1024px) {
   .flexblock.gallery li {
-    width: 21%;
+    width: 16%;
   }
   .grid.sm .flexblock.gallery li,.grid.ms .flexblock.gallery li {
     width: 29%;
