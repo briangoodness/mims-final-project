@@ -347,7 +347,6 @@ Subbiah.">
                     <img alt="Thumbnail " src="static/images/team/cristian-garay.jpg">
                     <figcaption>
                       <h2>Cristian Garay</h2>
-                      <p>{DESCRIBE ROLE}</p>
                     </figcaption>
                   </figure>
                 </a>
@@ -358,7 +357,6 @@ Subbiah.">
                     <img alt="Thumbnail " src="static/images/team/brian-goodness.jpg">
                     <figcaption>
                       <h2>Brian Goodness</h2>
-                      <p>{DESCRIBE ROLE}</p>
                     </figcaption>
                   </figure>
                 </a>
@@ -369,7 +367,6 @@ Subbiah.">
                     <img alt="Thumbnail " src="static/images/team/deepa-kalpathi.gif">
                     <figcaption>
                       <h2>Deepa Kalpathi</h2>
-                      <p>{DESCRIBE ROLE}</p>
                     </figcaption>
                   </figure>
                 </a>
@@ -380,7 +377,6 @@ Subbiah.">
                     <img alt="Thumbnail " src="static/images/team/eric-hagen.jpg">
                     <figcaption>
                       <h2>Eric Hagen</h2>
-                      <p>{DESCRIBE ROLE}</p>
                     </figcaption>
                   </figure>
                 </a>
@@ -391,7 +387,6 @@ Subbiah.">
                     <img alt="Thumbnail " src="static/images/team/surendran-subbiah.png">
                     <figcaption>
                       <h2>Suren Subbiah</h2>
-                      <p>{worthless}</p>
                     </figcaption>
                   </figure>
                 </a>
