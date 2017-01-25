@@ -113,9 +113,9 @@ Subbiah.">
           </div>
           <!-- .end .wrap -->
         </section>
-        <section class="bg-brown">
+        <section class="bg-brown fullscreen">
           <div class="wrap">
-            <h2>Challenges in Monitoring Development Projects</h2>
+            <h4 class="text-subtitle">Challenges in Monitoring Development Projects</h4>
             <br><br><br><br>
             <div class="grid">
               <div class="column">
@@ -149,7 +149,7 @@ Subbiah.">
           <!-- end .wrap-->
         </section>
 
-        <section class="bg-secondary">
+        <section class="bg-secondary fullscreen">
           <!--.wrap = container 1200px -->
           <div class="wrap size-50 frame">
             <h2 class="text-serif aligncenter">Why Bhoomi?</h2>
@@ -168,7 +168,7 @@ Subbiah.">
           <!-- .end .wrap -->
         </section>
 
-        <section class="bg-black slide-bottom">
+        <section class="bg-black fullscreen">
           <span class="background" style="background-image:url('https://source.unsplash.com/HWIOLU7_O6w/')"></span>
           <div class="wrap">
             <p class="text-subtitle">Satellite Data</p>
@@ -188,16 +188,12 @@ Subbiah.">
           </div>
           .end .wrap
         </section> -->
-        <section class="bg-black slide-bottom">
+        <section class="bg-black fullscreen">
           <span class="background" style="background-image:url('https://source.unsplash.com/t0GpJ2cdJuo/')"></span>
           <div class="wrap">
-            <p class="text-subtitle">Remote Monitoring</p>
-            <h2><strong>Enable international development planners and stakeholders to remotely measure and monitor indicators in the developing world</strong></h2>
-          </div>
-          <div class="wrap">
-            <h2>Potential Stakeholders:</h2>
+            <h4 class="text-subtitle" style="color:#3a4b3b;">Potential Stakeholders:</h4>
             <ul class="flexblock features">
-              <li>
+              <li style="background-color:#3a4b3b;">
                 <div>
                   <h2>
                     <svg class="fa-users">
@@ -208,7 +204,7 @@ Subbiah.">
                   Industry, Companies
                 </div>
               </li>
-              <li>
+              <li style="background-color:#3a4b3b;">
                 <div>
                   <h2>
                     <svg class="fa-globe">
@@ -219,7 +215,7 @@ Subbiah.">
                   UN, World Bank, etc.
                 </div>
               </li>
-              <li>
+              <li style="background-color:#3a4b3b;">
                 <div>
                   <h2>
                     <svg class="fa-info">
@@ -231,6 +227,10 @@ Subbiah.">
                 </div>
               </li>
             </ul>
+          </div>
+          <div class="wrap">
+            <p class="text-subtitle">Remote Monitoring</p>
+            <h2><strong>Enable international development planners and stakeholders to remotely measure and monitor indicators in the developing world</strong></h2>
           </div>
           <!-- .end .wrap -->
         </section>
@@ -274,7 +274,7 @@ Subbiah.">
             </ul>
           </div> -->
         <!-- </section> -->
-        <section>
+        <section class="fullscreen">
           <div class="wrap">
             <h3>Process</h3>
             <ul class="flexblock blink border">
@@ -336,7 +336,7 @@ Subbiah.">
           </div>
           <!-- .end .wrap -->
         </section>
-        <section>
+        <section class="fullscreen">
           <div class="wrap">
             <h3>The Team</h3>
             <ul class="flexblock gallery">
