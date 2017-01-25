@@ -100,7 +100,7 @@ Subbiah.">
           - <div class="wrap"> = container 1200px / <div class="wrap size-50"> = 600px;
         -->
 
-        <section class="bg-purple aligncenter">
+        <section class="bg-purple aligncenter fullscreen">
          <span class="background dark" style="background-image:url('https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Mercator-projection.jpg/773px-Mercator-projection.jpg')"></span>
           <!--.wrap = container 1200px -->
           <div class="wrap">
@@ -159,7 +159,7 @@ Subbiah.">
           </div>
         </section>
 
-        <section>
+        <section class="fullscreen">
           <!--.wrap = container 1200px -->
           <div class="wrap aligncenter">
             <p class="text-subtitle">Objective</p>
