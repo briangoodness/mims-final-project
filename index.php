@@ -113,90 +113,9 @@ Subbiah.">
           </div>
           <!-- .end .wrap -->
         </section>
-        <section>
-          <div class="wrap">
-            <h3>The Team</h3>
-            <ul class="flexblock gallery">
-              <li>
-                <a target="_blank" href="https://www.ischool.berkeley.edu/people/cristian-garay">
-                  <figure>
-                    <img alt="Thumbnail " src="static/images/team/cristian-garay.jpg">
-                    <figcaption>
-                      <h2>Cristian Garay</h2>
-                      <p>{DESCRIBE ROLE}</p>
-                    </figcaption>
-                  </figure>
-                </a>
-              </li>
-              <li>
-                <a target="_blank" href="https://www.ischool.berkeley.edu/people/brian-goodness">
-                  <figure>
-                    <img alt="Thumbnail " src="static/images/team/brian-goodness.jpg">
-                    <figcaption>
-                      <h2>Brian Goodness</h2>
-                      <p>{DESCRIBE ROLE}</p>
-                    </figcaption>
-                  </figure>
-                </a>
-              </li>
-              <li>
-                <a target="_blank" href="https://www.ischool.berkeley.edu/people/deepa-kalpathi">
-                  <figure>
-                    <img alt="Thumbnail " src="static/images/team/deepa-kalpathi.gif">
-                    <figcaption>
-                      <h2>Deepa Kalpathi</h2>
-                      <p>{DESCRIBE ROLE}</p>
-                    </figcaption>
-                  </figure>
-                </a>
-              </li>
-              <li>
-                <a target="_blank" href="https://www.ischool.berkeley.edu/people/eric-hagen">
-                  <figure>
-                    <img alt="Thumbnail " src="static/images/team/eric-hagen.jpg">
-                    <figcaption>
-                      <h2>Eric Hagen</h2>
-                      <p>{DESCRIBE ROLE}</p>
-                    </figcaption>
-                  </figure>
-                </a>
-              </li>
-              <li>
-                <a target="_blank" href="https://www.ischool.berkeley.edu/people/surendran-subbiah">
-                  <figure>
-                    <img alt="Thumbnail " src="static/images/team/surendran-subbiah.png">
-                    <figcaption>
-                      <h2>Suren Subbiah</h2>
-                      <p>{worthless}</p>
-                    </figcaption>
-                  </figure>
-                </a>
-              </li>
-            </ul>
-          </div>
-          <!-- .end .wrap -->
-        </section>
-        <section>
-          <!--.wrap = container 1200px -->
-          <div class="wrap aligncenter">
-            <p class="text-subtitle">Objective</p>
-            <h2 style="color:#71945a;">To leverage satellite imagery for social good</h2>
-          </div>
-          <!-- .end .wrap -->
-        </section>
-
-        <section class="bg-secondary">
-          <!--.wrap = container 1200px -->
-          <div class="wrap size-50 frame">
-            <h2 class="text-serif aligncenter">Why Bhoomi?</h2>
-            <p class="text-symbols">* * *</p>
-            <p>There is a need for a robust alternative or supplement to <strong>in-the-field monitoring</strong> by governmental agencies or industry.</p>
-            <p>The status of the projects need to be tracked and monitored <strong>on a regular basis</strong></p>
-          </div>
-        </section>
         <section class="bg-brown">
           <div class="wrap">
-            <h2>Current Impediments</h2>
+            <h2>Challenges in Monitoring Development Projects</h2>
             <br><br><br><br>
             <div class="grid">
               <div class="column">
@@ -229,33 +148,54 @@ Subbiah.">
           </div>
           <!-- end .wrap-->
         </section>
+
+        <section class="bg-secondary">
+          <!--.wrap = container 1200px -->
+          <div class="wrap size-50 frame">
+            <h2 class="text-serif aligncenter">Why Bhoomi?</h2>
+            <p class="text-symbols">* * *</p>
+            <p>There is a need for a robust alternative or supplement to <strong>in-the-field monitoring</strong> by governmental agencies or industry.</p>
+            <p>The status of the projects need to be tracked and monitored <strong>on a regular basis</strong></p>
+          </div>
+        </section>
+
+        <section>
+          <!--.wrap = container 1200px -->
+          <div class="wrap aligncenter">
+            <p class="text-subtitle">Objective</p>
+            <h2 style="color:#71945a;">To leverage satellite imagery for social good</h2>
+          </div>
+          <!-- .end .wrap -->
+        </section>
+
         <section class="bg-black slide-bottom">
           <span class="background" style="background-image:url('https://source.unsplash.com/HWIOLU7_O6w/')"></span>
           <div class="wrap">
             <p class="text-subtitle">Satellite Data</p>
             <h2><strong>Leverage spatial data, deep learning and best principles of information visualization</strong></h2>
           </div>
+          <div class="wrap">
+            <p class="text-subtitle">Foundational Work</p>
+            <h2><strong>Jean et al.’s 2016 paper, “Combining satellite imagery and machine learning to predict poverty.” Can we build on this foundation and apply the theory to specific projects in India?</strong></h2>
+          </div>
           <!-- .end .wrap -->
         </section>
-        <section class="bg-black slide-bottom">
+        <!-- <section class="bg-black slide-bottom">
           <span class="background" style="background-image:url('https://source.unsplash.com/ulh0cnK0WCE/')"></span>
           <div class="wrap">
             <p class="text-subtitle">Empowering Users</p>
             <h2><strong>Give first-hand access to decision makers on tracking the status of developmental projects</strong></h2>
           </div>
-          <!-- .end .wrap -->
-        </section>
+          .end .wrap
+        </section> -->
         <section class="bg-black slide-bottom">
           <span class="background" style="background-image:url('https://source.unsplash.com/t0GpJ2cdJuo/')"></span>
           <div class="wrap">
             <p class="text-subtitle">Remote Monitoring</p>
             <h2><strong>Enable international development planners and stakeholders to remotely measure and monitor indicators in the developing world</strong></h2>
           </div>
-          <!-- .end .wrap -->
-        </section>
-        <section>
           <div class="wrap">
-            <h2>Intended for Stakeholders:</h2>
+            <h2>Potential Stakeholders:</h2>
             <ul class="flexblock features">
               <li>
                 <div>
@@ -292,7 +232,48 @@ Subbiah.">
               </li>
             </ul>
           </div>
+          <!-- .end .wrap -->
         </section>
+        <!-- <section> -->
+          <!-- <div class="wrap">
+            <h2>Potential Stakeholders:</h2>
+            <ul class="flexblock features">
+              <li>
+                <div>
+                  <h2>
+                    <svg class="fa-users">
+                      <use xlink:href="#fa-users"></use>
+                    </svg>
+                    Management
+                  </h2>
+                  Industry, Companies
+                </div>
+              </li>
+              <li>
+                <div>
+                  <h2>
+                    <svg class="fa-globe">
+                      <use xlink:href="#fa-globe"></use>
+                    </svg>
+                    Aid/Funding Agencies
+                  </h2>
+                  UN, World Bank, etc.
+                </div>
+              </li>
+              <li>
+                <div>
+                  <h2>
+                    <svg class="fa-info">
+                      <use xlink:href="#fa-info"></use>
+                    </svg>
+                    Governments
+                  </h2>
+                  Internationally
+                </div>
+              </li>
+            </ul>
+          </div> -->
+        <!-- </section> -->
         <section>
           <div class="wrap">
             <h3>Process</h3>
@@ -357,6 +338,70 @@ Subbiah.">
         </section>
         <section>
           <div class="wrap">
+            <h3>The Team</h3>
+            <ul class="flexblock gallery">
+              <li>
+                <a target="_blank" href="https://www.ischool.berkeley.edu/people/cristian-garay">
+                  <figure>
+                    <img alt="Thumbnail " src="static/images/team/cristian-garay.jpg">
+                    <figcaption>
+                      <h2>Cristian Garay</h2>
+                      <p>{DESCRIBE ROLE}</p>
+                    </figcaption>
+                  </figure>
+                </a>
+              </li>
+              <li>
+                <a target="_blank" href="https://www.ischool.berkeley.edu/people/brian-goodness">
+                  <figure>
+                    <img alt="Thumbnail " src="static/images/team/brian-goodness.jpg">
+                    <figcaption>
+                      <h2>Brian Goodness</h2>
+                      <p>{DESCRIBE ROLE}</p>
+                    </figcaption>
+                  </figure>
+                </a>
+              </li>
+              <li>
+                <a target="_blank" href="https://www.ischool.berkeley.edu/people/deepa-kalpathi">
+                  <figure>
+                    <img alt="Thumbnail " src="static/images/team/deepa-kalpathi.gif">
+                    <figcaption>
+                      <h2>Deepa Kalpathi</h2>
+                      <p>{DESCRIBE ROLE}</p>
+                    </figcaption>
+                  </figure>
+                </a>
+              </li>
+              <li>
+                <a target="_blank" href="https://www.ischool.berkeley.edu/people/eric-hagen">
+                  <figure>
+                    <img alt="Thumbnail " src="static/images/team/eric-hagen.jpg">
+                    <figcaption>
+                      <h2>Eric Hagen</h2>
+                      <p>{DESCRIBE ROLE}</p>
+                    </figcaption>
+                  </figure>
+                </a>
+              </li>
+              <li>
+                <a target="_blank" href="https://www.ischool.berkeley.edu/people/surendran-subbiah">
+                  <figure>
+                    <img alt="Thumbnail " src="static/images/team/surendran-subbiah.png">
+                    <figcaption>
+                      <h2>Suren Subbiah</h2>
+                      <p>{worthless}</p>
+                    </figcaption>
+                  </figure>
+                </a>
+              </li>
+            </ul>
+          </div>
+          <!-- .end .wrap -->
+        </section>
+
+        <!-- <section>
+          <div class="wrap">
             <ul class="flexblock plans blink">
               <li>
                 <span>
@@ -377,40 +422,10 @@ Subbiah.">
                 </span>
               </li>
             </ul>
-          </div>
+          </div> -->
           <!-- .end .wrap -->
-        </section>
-        <section>
-          <!--.wrap = container 1200px -->
-          <div class="wrap">
-            <div class="grid vertical-align">
-              <div class="column">
-                <h3><strong>Deep Learning/Computer Vision Techniques</strong></h3>
-                <p class="text-intro">Each parent <code>&lt;section&gt;</code> in the #webslides element is an individual slide. </p>
-                <p>Code looks neat, pure. It uses <strong>intuitive markup</strong> with popular naming conventions. There's no need to overuse classes or nesting. Based on <a href="https://github.com/jennschiffer/SimpleSlides">SimpleSlides</a>, by <a href="http://jennmoney.biz">Jenn Schiffer</a>. <strong>Tutorials</strong>: <a href="demos/components.html" title="WebSlides Components">Components</a> &middot; <a href="demos/classes.html" title="WebSlides Classes">Classes</a>.</p>
-              </div>
-              <!-- .end .column -->
-              <div class="column">
-                <pre>&lt;article id="webslides"&gt;
-  <span class="code-comment">&lt;!-- Slide 1 --&gt;</span>
-  &lt;section&gt;
-    &lt;h1&gt;Design for trust&lt;/h1&gt;
-  &lt;/section&gt;
-  <span class="code-comment">&lt;!-- Slide 2 --&gt;</span>
-  &lt;section class="bg-primary"&gt;
-    &lt;div class="wrap"&gt;
-      &lt;h2&gt;.wrap = container 1200px&lt;/h2&gt;
-    &lt;/div&gt;
-  &lt;/section&gt;
-&lt;/article&gt;
-</pre>
-              </div>
-              <!-- .end .column -->
-            </div>
-            <!-- .end .grid -->
-          </div>
-          <!-- .end .wrap -->
-        </section>
+        <!-- </section> -->
+
       </article>
     </main>
     <!--main-->
