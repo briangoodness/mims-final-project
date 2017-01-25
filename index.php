@@ -176,7 +176,7 @@ Subbiah.">
           </div>
           <div class="wrap">
             <p class="text-subtitle">Foundational Work</p>
-            <h2><strong>Jean et al.’s 2016 paper, “Combining satellite imagery and machine learning to predict poverty.” Can we build on this foundation and apply the theory to specific projects in India?</strong></h2>
+            <h4><strong>Jean et al.’s 2016 paper, “Combining satellite imagery and machine learning to predict poverty.” Can we build on this foundation and apply the theory to specific projects in India?</strong></h4>
           </div>
           <!-- .end .wrap -->
         </section>
@@ -218,8 +218,8 @@ Subbiah.">
               <li style="background-color:#3a4b3b;">
                 <div>
                   <h2>
-                    <svg class="fa-info">
-                      <use xlink:href="#fa-info"></use>
+                    <svg class="fa-building-o">
+                      <use xlink:href="#fa-building-o"></use>
                     </svg>
                     Governments
                   </h2>
