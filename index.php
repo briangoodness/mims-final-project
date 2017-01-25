@@ -170,11 +170,11 @@ Subbiah.">
 
         <section class="bg-black fullscreen">
           <span class="background" style="background-image:url('https://source.unsplash.com/HWIOLU7_O6w/')"></span>
-          <div class="wrap">
+          <div class="wrap" style="margin-bottom:75px;">
             <p class="text-subtitle">Satellite Data</p>
             <h2><strong>Leverage spatial data, deep learning and best principles of information visualization</strong></h2>
           </div>
-          <div class="wrap">
+          <div class="wrap" style="margin-top:50px;">
             <p class="text-subtitle">Foundational Work</p>
             <h4><strong>Jean et al.’s 2016 paper, “Combining satellite imagery and machine learning to predict poverty.” Can we build on this foundation and apply the theory to specific projects in India?</strong></h4>
           </div>
