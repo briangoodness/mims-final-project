@@ -176,7 +176,7 @@ Subbiah.">
           </div>
           <div class="wrap" style="margin-top:50px;">
             <p class="text-subtitle">Foundational Work</p>
-            <h4><strong>Jean et al.’s 2016 paper, “Combining satellite imagery and machine learning to predict poverty.” Can we build on this foundation and apply the theory to specific projects in India?</strong></h4>
+            <h4><strong>Jean et al.’s 2016 paper, “Combining satellite imagery and machine learning to predict poverty.” Can we build on this foundation and apply the theory to specific projects in other countries?</strong></h4>
           </div>
           <!-- .end .wrap -->
         </section>
