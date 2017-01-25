@@ -337,10 +337,11 @@ Subbiah.">
           <!-- .end .wrap -->
         </section>
         <section class="fullscreen">
+          <span class="background" style="opacity:0.30; background-image:url('static/images/south-hall.jpg')"></span>
           <div class="wrap">
-            <h3>The Team</h3>
+            <h2>The Team</h2>
             <ul class="flexblock gallery">
-              <li>
+              <li style="border:1px solid black;">
                 <a target="_blank" href="https://www.ischool.berkeley.edu/people/cristian-garay">
                   <figure>
                     <img alt="Thumbnail " src="static/images/team/cristian-garay.jpg">
@@ -351,7 +352,7 @@ Subbiah.">
                   </figure>
                 </a>
               </li>
-              <li>
+              <li style="border:1px solid black;">
                 <a target="_blank" href="https://www.ischool.berkeley.edu/people/brian-goodness">
                   <figure>
                     <img alt="Thumbnail " src="static/images/team/brian-goodness.jpg">
@@ -362,7 +363,7 @@ Subbiah.">
                   </figure>
                 </a>
               </li>
-              <li>
+              <li style="border:1px solid black;">
                 <a target="_blank" href="https://www.ischool.berkeley.edu/people/deepa-kalpathi">
                   <figure>
                     <img alt="Thumbnail " src="static/images/team/deepa-kalpathi.gif">
@@ -373,7 +374,7 @@ Subbiah.">
                   </figure>
                 </a>
               </li>
-              <li>
+              <li style="border:1px solid black;">
                 <a target="_blank" href="https://www.ischool.berkeley.edu/people/eric-hagen">
                   <figure>
                     <img alt="Thumbnail " src="static/images/team/eric-hagen.jpg">
@@ -384,7 +385,7 @@ Subbiah.">
                   </figure>
                 </a>
               </li>
-              <li>
+              <li style="border:1px solid black;">
                 <a target="_blank" href="https://www.ischool.berkeley.edu/people/surendran-subbiah">
                   <figure>
                     <img alt="Thumbnail " src="static/images/team/surendran-subbiah.png">
