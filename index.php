@@ -154,8 +154,8 @@ Subbiah.">
           <div class="wrap size-50 frame">
             <h2 class="text-serif aligncenter">Why Bhoomi?</h2>
             <p class="text-symbols">* * *</p>
-            <p>There is a need for a robust alternative or supplement to <strong>in-the-field monitoring</strong> by governmental agencies or industry.</p>
-            <p>The status of the projects need to be tracked and monitored <strong>on a regular basis</strong></p>
+            <p>There is a need for a robust alternative or supplement to <strong>in-the-field monitoring</strong> by governmental agencies and industry.</p>
+            <p>The status of projects needs to be tracked and monitored <strong>on a regular basis</strong></p>
           </div>
         </section>
 
@@ -172,7 +172,7 @@ Subbiah.">
           <span class="background" style="background-image:url('https://source.unsplash.com/HWIOLU7_O6w/')"></span>
           <div class="wrap" style="margin-bottom:75px;">
             <p class="text-subtitle">Satellite Data</p>
-            <h2><strong>Leverage spatial data, deep learning and best principles of information visualization</strong></h2>
+            <h2><strong>Leverage spatial data, deep learning and the power of information visualization</strong></h2>
           </div>
           <div class="wrap" style="margin-top:50px;">
             <p class="text-subtitle">Foundational Work</p>
