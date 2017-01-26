@@ -190,8 +190,8 @@ Subbiah.">
         </section> -->
         <section class="bg-black fullscreen">
           <span class="background" style="background-image:url('https://source.unsplash.com/t0GpJ2cdJuo/')"></span>
-          <div class="wrap">
-            <h4 class="text-subtitle" style="color:#3a4b3b;">Potential Stakeholders:</h4>
+          <div class="wrap" style="margin-bottom:50px;">
+            <h4 class="text-subtitle" style="color:#3a4b3b;">Potential Stakeholders:</h4><br>
             <ul class="flexblock features">
               <li style="background-color:#3a4b3b;">
                 <div>
@@ -228,7 +228,7 @@ Subbiah.">
               </li>
             </ul>
           </div>
-          <div class="wrap">
+          <div class="wrap" style="margin-top:50px;">
             <p class="text-subtitle">Remote Monitoring</p>
             <h2><strong>Enable international development planners and stakeholders to remotely measure and monitor indicators in the developing world</strong></h2>
           </div>
